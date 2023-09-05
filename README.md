@@ -1,6 +1,5 @@
 # 💫 About Me:
-Software Engineer
-
+A hardworking Software Engineer with high analytical skills, strong communication skills, suitable for teamwork and individual work.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eda-belge-a6060b1b5/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@eda.belge) 
